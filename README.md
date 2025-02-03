@@ -1,5 +1,4 @@
 # README.md
-Proyecto 
-import os
-cpu_num = os.cpu_count()
-print(f"Mi computadora tiene {cpu_num} núcleos de CPU")
+Proyecto
+
+vehicles_us.csv
